@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:top="7dp" android:bottom="2dp" android:start="5dp" android:end="5dp" android:drawable="@drawable/batu"/>
+    <item android:drawable="@drawable/rounded_transparant"/>
+
+</layer-list>
